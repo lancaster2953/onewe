@@ -17918,7 +17918,7 @@
         return (0, on.jsx)(Dn, {
           children: (0, on.jsxs)(Mn, {
             children: [
-              (0, on.jsx)("h1", { children: "HOW TO PLAY" }),
+              (0, on.jsx)("h1", { children: "HAPPY BDAY :)" }),
               (0, on.jsx)(Fn, {}),
               (0, on.jsx)(Un, {
                 children: (0, on.jsx)("p", {
@@ -17942,7 +17942,7 @@
                 variant: "green",
                 style: { marginTop: 20 },
                 onClick: t,
-                children: "Play",
+                children: "Meowkay",
               }),
             ],
           }),

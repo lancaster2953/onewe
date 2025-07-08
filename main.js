@@ -1,6 +1,6 @@
 !(function () {
-  var artist = 'Disney';
-  var startDate = "1/23/2010";
+  var artist = 'ONEWE';
+  var startDate = "07/07/2025";
   var e = {
       262: function (e) {
         "use strict";

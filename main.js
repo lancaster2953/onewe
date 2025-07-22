@@ -1,6 +1,6 @@
 !(function () {
   var artist = 'ONEWE';
-  var startDate = "07/06/2025";
+  var startDate = "08/07/2025";
   var e = {
       262: function (e) {
         "use strict";
